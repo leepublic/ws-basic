@@ -1,0 +1,23 @@
+{
+  "name": "ws-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-ws": "^3.0.0",
+    "jpickle": "^0.4.1",
+    "redis": "^2.8.0",
+    "websocket": "^1.0.25",
+    "ws": "^5.1.1"
+  }
+}
